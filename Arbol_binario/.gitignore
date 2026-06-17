@@ -1,0 +1,8 @@
+# Archivos de instructor (no publicar)
+*.plain.c
+*.plain.md
+tests_obf.c
+inject_disclaimer.py
+# binarios de prueba
+tests
+a.out
