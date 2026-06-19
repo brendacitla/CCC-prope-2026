@@ -78,8 +78,8 @@ int n
 while (pos < n && in[pos] != pre[0])
     pos++;
 
-    int tam_izq = pos;
-    int tam_der = n - pos - 1;
+int tam_izq = pos;
+int tam_der = n - pos - 1;
 
 raiz->izq =
     construir_rec(
