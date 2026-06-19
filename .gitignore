@@ -108,4 +108,5 @@ skills-lock.json
 **/solucion.py
 **/solucion.c
 **/*.sha256
-
+**/README.plain.md
+**/tests.plain.c
